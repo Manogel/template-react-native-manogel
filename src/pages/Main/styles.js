@@ -8,8 +8,6 @@ export const Container = styled.ImageBackground`
 `;
 
 export const Author = styled.View`
-  height: 70px;
-  justify-content: space-between;
 `;
 
 export const Welcome = styled.Text`

@@ -11,8 +11,8 @@ const Main = () => (
     resizeMode="cover"
   >
     <Author>
-      <Welcome>Gitub.com/Manogel</Welcome>
-      <Welcome>Welcome to the advanced model!</Welcome>
+      <Welcome>Github.com/Manogel</Welcome>
+      <Welcome style={{ marginTop: 15 }} >Welcome to the advanced model!</Welcome>
     </Author>
 
     <Instructions>Favorite this repository</Instructions>
