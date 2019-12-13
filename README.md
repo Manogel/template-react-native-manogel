@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Manogel Template</h3>
+  <h3 align="center">Manogel Template for React Native</h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
