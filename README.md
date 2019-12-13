@@ -7,8 +7,8 @@
 
 <!-- PROJECT SHIELDS -->
 
-<!-- [![npm](https://img.shields.io/npm/v/react-native-template-rocketseat-advanced.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-rocketseat-advanced)
-[![npm](https://img.shields.io/npm/dt/react-native-template-rocketseat-advanced.svg)](https://www.npmjs.com/package/react-native-template-rocketseat-advanced) -->
+[![npm](https://img.shields.io/npm/v/react-native-template-manogel.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-manogel)
+[![npm](https://img.shields.io/npm/dt/react-native-template-manogel.svg)](https://www.npmjs.com/package/react-native-template-manogel)
 
 <!-- PROJECT LOGO -->
 <br />
