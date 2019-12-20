@@ -23,10 +23,25 @@ module.exports = {
   plugins: [
     'react',
     'react-hooks',
-    'prettier'
+    'prettier',
+    // 'eslint-plugin-import-helpers',
+    'import-helpers'
   ],
   rules: {
     "prettier/prettier": "error",
+    'import-helpers/order-imports': [
+      'warn',
+      {
+          newlinesBetween: 'always',
+          groups: [
+              '/^react/',
+              'module',
+              '/^~/',
+              ['parent', 'sibling', 'index'],
+          ],
+          alphabetize: { order: 'asc', ignoreCase: true },
+      },
+    ],
     "react/jsx-filename-extension": [
       "warn",
       {

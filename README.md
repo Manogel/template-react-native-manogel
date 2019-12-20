@@ -61,6 +61,7 @@ This project aims to create a template that can be used when designing projects 
   - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
   - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
   - [eslint-plugin-react-native](https://github.com/Intellicode/eslint-plugin-react-native)
+  - [eslint-plugin-import-helpers](https://www.npmjs.com/package/eslint-plugin-import-helpers)
   - [eslint-import-resolver-babel-plugin-root-import](https://github.com/olalonde/eslint-import-resolver-babel-root-import)
   - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
   - [eslint-plugin-react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks)
