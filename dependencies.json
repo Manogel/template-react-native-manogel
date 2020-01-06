@@ -12,6 +12,7 @@
   "reactotron-react-native": "latest",
   "reactotron-redux": "latest",
   "reactotron-redux-saga": "latest",
+  "babel-plugin-transform-remove-console": "latest",
   "redux": "latest",
   "redux-saga": "latest",
   "reduxsauce": "latest",
