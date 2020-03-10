@@ -75,11 +75,11 @@ This project aims to create a template that can be used when designing projects 
 ### File Structure
 
 ```bash
-rocketseat-advanced
+manogel
 ├── src/
 │   ├── config/
-│   │   ├── ReactotronConfig.js
-│   │   └── StatusBarConfig.js.js
+│   │   └── ReactotronConfig.js
+│   │ 
 │   ├── pages/
 │   │   └── Main/
 │   │       ├── index.js
